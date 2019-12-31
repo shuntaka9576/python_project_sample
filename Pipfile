@@ -8,6 +8,7 @@ mypy = "*"
 flake8 = "*"
 black = "*"
 isort = "*"
+typeshed = "*"
 
 [packages]
 matplotlib = "*"
