@@ -14,7 +14,7 @@ class Person:
 if __name__ == "__main__":
     ut = time.time()
     dt_now = datetime.datetime.now()
-    print("unix:%s, datetime:%s".format(ut, dt_now))
+    # print("unix:%s, datetime:%s".format(ut, dt_now))
 
     year: typing.List[int] = []
     year = [1980, 1985, 1990, 2000, 2010, 2018]
@@ -23,8 +23,8 @@ if __name__ == "__main__":
     plt.plot(year, weight)
     plt.show()
 
-    year.append('aaa')
+    # year.append('aaa')
     persons = Person("takahahsi", 14)
-    persons = Person(13, "takahahsi")
+    # persons = Person(13, "takahahsi")
 
 
