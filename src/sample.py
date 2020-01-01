@@ -23,6 +23,6 @@ if __name__ == "__main__":
     plt.plot(year, weight)
     plt.show()
 
-    # year.append('aaa')
+    # year.append("aaa")
     persons = Person("takahahsi", 14)
     # persons = Person(13, "takahahsi")
