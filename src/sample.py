@@ -26,5 +26,3 @@ if __name__ == "__main__":
     # year.append('aaa')
     persons = Person("takahahsi", 14)
     # persons = Person(13, "takahahsi")
-
-
